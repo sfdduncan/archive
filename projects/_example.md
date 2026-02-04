@@ -2,6 +2,7 @@
 layout: project
 title: Example Project
 author: Seth Thompson
+advisor: Advisor Name
 year: 2023
 image: /img/_example/diomede-islands.jpg
 links:

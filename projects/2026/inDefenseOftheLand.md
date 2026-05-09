@@ -90,7 +90,6 @@ The system is comprised of:
 3. Interactive archival image objects that surface from the landscape and move alongside the viewer rather than being displayed statically
 4. Audio recordings of scholars in critical Native and Indigenous studies, integrated as ambient voice alongside the written narration
 
-[Embed system diagram]
 
 <br></br>
 

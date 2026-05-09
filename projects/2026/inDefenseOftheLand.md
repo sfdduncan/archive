@@ -30,7 +30,8 @@ This statement reframes what might otherwise be read as a disruptive, cyberterro
 
 The goal of this digital narrative experience is twofold. For those encountering these histories for the first time, the aim is to make legible that Indigenous peoples have continued to resist, in a myriad of ways, despite the ongoing attempts of settler colonialism to erase them. For those already engaged with anti-colonial or decolonization movements, the aim is to internalize the notion of kinstillation, of Indigenous internationalism, and to inspire a turn toward how other Indigenous peoples across the Americas have worked in tandem, all under the umbrella of defending the land, and inherently, defending themselves.
 
-![Hero image of the experience]([hero-screenshot])
+![](img/2026/titleScreenVid.gif)
+
 
 [Embed video walkthrough or trailer here]
 
@@ -40,15 +41,14 @@ The goal of this digital narrative experience is twofold. For those encountering
 
 The experience moves through a sequence of distinct natural environments: arctic tundra, forest, grassland, mountain pass, ocean, rainforest, and finally the dark digital corridor of the hack itself. The viewer walks through each environment as written narration, audio of prevalent scholars engaging in Critical Native and Indigenous studies, and archival imagery surface alongside them.
 
-[Embed environment screenshots]
-
+![](img/2026/inDefenseOfLand/environments_grid.png)
 <br></br>
 
 ## The Subtitles as Essay Spine
 
 The written narration that appears as the viewer moves through the environment functions as the essay's spine, making the central argument explicit: that refusal, the ongoing insistence on existing on one's own terms and on one's own land, is not solely confined to moments of dramatic political action but is the continuous texture of Indigenous life under settler colonialism. The narration traces this argument from its theoretical grounding, through the specific history of Maya Q'eqchi' land defense at El Estor, to Guacamaya's breach as its most recent expression. Audio recordings of prominent scholars in critical Native and Indigenous studies surface alongside the narration, ensuring that the conceptual frameworks informing this work are spoken by the thinkers themselves.
 
-[Embed subtitle GIF or screenshot]
+![](img/2026/inDefenseOfLand/subtitles_example.gif)
 
 <br></br>
 
@@ -56,7 +56,7 @@ The written narration that appears as the viewer moves through the environment f
 
 Archival photographs, documentary images, and Indigenous artworks surface from the landscape and move alongside the viewer rather than being displayed behind glass. This design choice is rooted in a concept common across many Indigenous traditions: that the past is not behind us but travels with us, that ancestors and ancestral knowledge inform and accompany the present rather than receding into history. Some of these images originate from a colonial lens, produced by and for institutions that sought to render Indigenous peoples as salvageable objects frozen in the moment of their capture. Drawing on Pierce, the images are approached as opportunities to recover within them moments of tenderness, care, kinship, and refusal that the colonial archive was never designed to hold but could not fully erase.
 
-[Embed archive images GIF or screenshot]
+![](img/2026/inDefenseOfLand/interactive_image.gif)
 
 ---
 <br><br>
@@ -75,13 +75,13 @@ The second is Jodi Byrd's (Chickasaw Nation) argument regarding the ways in whic
 
 This project takes precedent from games such as Umurangi Generation by Māori developer Naphtali Faulkner, in which the act of bearing witness through the environment becomes the form of resistance the work itself enacts, and Never Alone (Kisima Ingitchuna), developed in collaboration with the Iñupiaq community of Alaska as an act of cultural continuity and education.
 
-[Embed inspirational reference imagery]
+![](img/2026/inDefenseOfLand/inspo.png)
 
 <br></br>
 
 ## Function
 
-At its core, the experience is a Three.js application, structured as a sequence of distinct environments through which the viewer walks. As the viewer moves, three layers of content surface in synchronized relation: written narration, audio recordings of scholar voices, and archival photographs and Indigenous artworks. The narration and audio triggers are governed by the viewer's position within each environment, with subtitle cards and audio cues calibrated to give the viewer enough time to read and listen without halting their movement through the space.
+At its core, the experience is an environment entirely constructed in Three.js, structured as a sequence of distinct environments through which the viewer walks. As the viewer moves, three layers of content surface in synchronized relation: written narration, audio recordings of scholar voices, and archival photographs and Indigenous artworks. The narration and audio triggers are governed by the viewer's position within each environment, with subtitle cards and audio cues calibrated to give the viewer enough time to read and listen without halting their movement through the space.
 
 The system is comprised of:
 
@@ -98,23 +98,21 @@ The system is comprised of:
 
 The aesthetic of the experience is deliberate. The environments are stylized rather than photorealistic, refusing the open-world game's logic of conquering empty, hyper-rendered territory. The archival images are set apart from the environment by their treatment, surfacing as discrete artifacts that travel alongside the viewer rather than being embedded into the world as decoration. The shifting landscapes, from arctic tundra to rainforest to the dark corridor of the hack, are an attempt to visualize something of the territorial vastness at stake: the sheer scale and diversity of the lands, waters, and ecologies that Indigenous peoples across the Americas have defended and continue to defend. No single environment can hold that scope. The movement between them is an acknowledgment of it.
 
-[Embed environment screenshots]
-
 <br></br>
 
 ## Interaction
 
 Where the open-world game traditionally invites the player to conquer empty territory, this work asks the viewer to move through territory that is already inhabited, already defended, already alive with relation, and to confront, through that inhabitation, the ongoing presence of peoples the medium has historically tried to render absent. The interaction is intentionally limited: the viewer walks, they look, they listen, they read. There are no win conditions. There is no accumulation. The viewer's only task is to be present with these histories, to allow themselves to be moved through them, and to recognize them for what they are: not history, not exception, but the continuous texture of life lived in good relation, exactly as Guacamaya named it.
 
-[Embed interaction GIF]
-
 <br></br>
 
-## A Companion Two-Channel Video Installation: Multitudes in Plaintext
+## A Companion Two-Channel Video Installation: Resistance in Plaintext
 
-Alongside the digital narrative experience, this work includes a two-channel video installation titled *Multitudes in Plaintext*. The first channel, *Methods of Refusal*, displays a grid of various forms of what is to be considered refusal and resistance of the Maya Q'eqchi, from protest to ceremony to people simply existing on the land, overlaid with the hack tutorial Guacamaya themselves published. The second channel, *Exposure*, layers leaked documents from the Guacamaya breach over a promotional video produced by Pronico, the corporation operating the Fenix nickel mine. Together, the two channels make legible what was always hidden in plain sight.
+Alongside the digital narrative experience, this work includes a two-channel video installation titled *Resistance in Plaintext*. The first channel, *Methods of Refusal*, displays a grid of various forms of what is to be considered refusal and resistance of the Maya Q'eqchi, from protest to ceremony to people simply existing on the land, overlaid with the hack tutorial Guacamaya themselves published. The second channel, *Exposure*, layers leaked documents from the Guacamaya breach over a promotional video produced by Pronico, the corporation operating the Fenix nickel mine. Together, the two channels make legible what was always hidden in plain sight.
 
-[Embed installation video or photos]
+<video controls width="100%">
+  <source src="/img/2026/inDefenseOfLand/twoChannelClipped.mp4" type="video/mp4">
+</video>
 
 ---
 <br><br>
